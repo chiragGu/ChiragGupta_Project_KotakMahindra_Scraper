@@ -17,4 +17,4 @@
 
 To run the python script you need to have the following:
     -- A Python IDE 
-    -- BeautifulSoup, requests and json libraries 
+    -- BeautifulSoup, requests and Json libraries 
