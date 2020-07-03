@@ -2,9 +2,9 @@
 
 
 ### This repository contains following files:
-  - Kotak_Mahindra_Scraper. py
+  - Kotak_Mahindra_Scraper.py
   - Chirag-Gupta-Kotak-Mahindra-Scrap.json
-
+  
 #### Kotak_Mahindra_Scraper. py
 
   It contains the main code which on execution outputs the scrapped data and creates a json file of the same. 
